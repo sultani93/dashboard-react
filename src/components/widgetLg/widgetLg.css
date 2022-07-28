@@ -1,0 +1,7 @@
+.widgetLg {
+  flex: 2;
+  box-shadow: 4px 4px 13px -4px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 4px 13px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 4px 13px -4px rgba(0, 0, 0, 0.75);
+  padding: 20px;
+}
